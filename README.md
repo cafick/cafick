@@ -8,6 +8,8 @@ My name is Connor Fick and this is my first attempt @ using GITHUB
 - 📫 How to reach me: via post. 
 
 ![nyancat](nyan.gif)
+
+<img width="500" src="nyan.gif"> alt="nyancat" />
 <!---
 cafick/cafick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
